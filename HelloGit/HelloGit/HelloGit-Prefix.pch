@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'HelloGit' target in the 'HelloGit' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
